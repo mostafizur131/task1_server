@@ -1,0 +1,109 @@
+[
+    {
+        "name":"Manufacturing",
+        "value" : "1",
+        "options": [
+            {"name":"Construction materials", "value":"19", "subOption":null},
+            {"name":"Electronics and Optics", "value":"18", "subOption":null},
+            {"name":"Food and Beverage", "value":"6", "subOption":[
+                {"name":"Bakery & confectionery products", "value":"342", "subOption":null},
+                {"name":"Beverages", "value":"43", "subOption":null},
+                {"name":"Fish & fish products", "value":"42", "subOption":null},
+                {"name":"Meat & meat products", "value":"40", "subOption":null},
+                {"name":"Milk & dairy products", "value":"39", "subOption":null},
+                {"name":"Sweets & snack food", "value":"378", "subOption":null},
+                {"name":"Other", "value":"437", "subOption":null}
+            ]},
+            {"name":"Furniture", "value":"13", "subOption":[
+                {"name":"Bathroom/sauna", "value":"389", "subOption":null},
+                {"name":"Bedroom", "value":"385", "subOption":null},
+                {"name":"Children Room ", "value":"390", "subOption":null},
+                {"name":"Kitchen", "value":"98", "subOption":null},
+                {"name":"Living room", "value":"101", "subOption":null},
+                {"name":"Office", "value":"392", "subOption":null},
+                {"name":"Other (furniture)", "value":"394", "subOption":null},
+                {"name":"Outdoor", "value":"341", "subOption":null},
+                {"name":"Project furniture", "value":"99", "subOption":null}
+            ]},
+            {"name":"Machinery", "value":"12", "subOption":[
+                {"name":"Machinery Components", "value":"94", "subOption":null},
+                {"name":"Machinery equipments", "value":"91", "subOption":null},
+                {"name":"Manufacture of Machinery", "value":"224", "subOption":null},
+                {"name":"Maritime", "value":"97", "subOption":[
+                    {"name":"Aluminum and steel workboat", "value":"271", "subOption":null},
+                    {"name":"Boat/Yacht building", "value":"269", "subOption":null},
+                    {"name":"Ship repair and conversion", "value":"230", "subOption":null}
+                ]},
+                {"name":"Metal Structures", "value":"93", "subOption":null},
+                {"name":"Other", "value":"508", "subOption":null},
+                {"name":"Repair and maintenance", "value":"227", "subOption":null}
+            ]},
+            {"name":"Metalworking", "value":"11", "subOption":[
+                {"name":"Construction of metal structures", "value":"67", "subOption":null},
+                {"name":"Houses and Building", "value":"263", "subOption":null},
+                {"name":"Metal products", "value":"267", "subOption":null},
+                {"name":"Metal works", "value":"542", "subOption":[
+                    {"name":"CNC-machining", "value":"75", "subOption":null},
+                    {"name":"Forgings, Fasteners", "value":"62", "subOption":null},
+                    {"name":"Gas, Plasma, Laser cutting", "value":"69", "subOption":null},
+                    {"name":"MIG, TIG, Aluminum welding", "value":"66", "subOption":null}
+                ]}
+            ]},
+            {"name":"Plastic and Rubber", "value":"9", "subOption":[
+                {"name":"Packaging", "value":"54", "subOption":null},
+                {"name":"Plastic goods", "value":"556", "subOption":null},
+                {"name":"Plastic processing technology", "value":"559", "subOption":[
+                    {"name":"Blowing", "value":"55", "subOption":null},
+                    {"name":"Moulding", "value":"57", "subOption":null},
+                    {"name":"Plastics welding and processing", "value":"53", "subOption":null}
+                ]},
+                {"name":"Plastic profiles", "value":"560", "subOption":null}
+            ]},
+            {"name":"Printing", "value":"5", "subOption":[
+                {"name":"Advertising", "value":"148", "subOption":null},
+                {"name":"Book/Periodicals printing", "value":"150", "subOption":null},
+                {"name":"Labelling and packaging printing", "value":"145", "subOption":null}
+            ]},
+            {"name":"Textile and Clothing", "value":"7", "subOption":[
+                {"name":"Clothing", "value":"44", "subOption":null},
+                {"name":"Textile", "value":"45", "subOption":null}
+            ]},
+            {"name":"Wood", "value":"8", "subOption":[
+                {"name":"Other (wood)", "value":"337", "subOption":null},
+                {"name":"Wooden building materials", "value":"51", "subOption":null},
+                {"name":"wooden houses", "value":"47", "subOption":null}
+            ]}
+        ]
+    },
+    {
+        "name":"Other",
+        "value" : "3",
+        "options": [
+            {"name":"Creative industries", "value":"75", "subOption":null},
+            {"name":"Energy technology", "value":"75", "subOption":null},
+            {"name":"Environment", "value":"75", "subOption":null}
+        ]
+    },
+    {
+        "name":"Service",
+        "value" : "2",
+        "options": [
+            {"name":"Business services", "value":"75", "subOption":null},
+            {"name":"Engineering", "value":"75", "subOption":null},
+            {"name":"Information Technology and Telecommunications", "value":"75", "subOption":[
+                {"name":"Data processing , Web portals, E-marketing", "value":"75", "subOption":null},
+                {"name":"Programming, Consultancy", "value":"75", "subOption":null},
+                {"name":"Software, Hardware", "value":"75", "subOption":null},
+                {"name":"Telecommunications", "value":"75", "subOption":null}
+            ]},
+            {"name":"Tourism", "value":"75", "subOption":null},
+            {"name":"Translation services", "value":"75", "subOption":null},
+            {"name":"Transport and Logistics", "value":"75", "subOption":[
+                {"name":"Air", "value":"75", "subOption":null},
+                {"name":"Rail", "value":"75", "subOption":null},
+                {"name":"Road", "value":"75", "subOption":null},
+                {"name":"Water", "value":"75", "subOption":null}
+            ]}
+        ]
+    }
+]
